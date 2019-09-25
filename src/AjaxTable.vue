@@ -204,7 +204,7 @@
                     font-weight: 600;
                     vertical-align: bottom;
                     border-bottom: 2px solid #eeeeee;
-                    background-image: url("./assets/images/sort_both.png");
+                    background-image: url("assets/images/sort_both.png");
                     background-repeat: no-repeat;
                     background-position: right;
 
@@ -213,10 +213,10 @@
                     }
 
                     &.desc {
-                        background-image: url("./assets/images/sort_desc.png");
+                        background-image: url("assets/images/sort_desc.png");
                     }
                     &.asc {
-                        background-image: url("./assets/images/sort_asc.png");
+                        background-image: url("assets/images/sort_asc.png");
                     }
                 }
             }
